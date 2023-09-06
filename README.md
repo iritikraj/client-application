@@ -19,4 +19,4 @@ This project was built using [Angular CLI](https://github.com/angular/angular-cl
 1. Clone this repository to your local machine using git clone command:
 2. Switch to projects folder and run `npm install` for the node package installation
 3. Run `ng serve` to start server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
-4. Please make sure to clone server side of the application `https://github.com/iritikraj/socket-server.git` and start backend server as well to make sure application works seamlessly.
+4. Please make sure to clone server side of the application [socket-server](https://github.com/angular/angular-cli) and start backend server as well to make sure application works seamlessly.
